@@ -2,7 +2,7 @@
 
 실기 내용 정리 : https://dustink.tistory.com/149?category=986420 
 
-　　　　　　　　https://simuing.tistory.com/category/IT%20License
+　　　　　　　https://simuing.tistory.com/category/IT%20License
 
 유 튜 브 :  https://www.youtube.com/user/ydot0789
 
