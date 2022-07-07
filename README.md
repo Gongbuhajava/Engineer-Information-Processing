@@ -1,7 +1,7 @@
 # Engineer-Information-Processing
 |번호|제목|유나|강호|연수|일권|
 |:---:|---|---|---|---|---|
-|1|요구사항 확인|🤢||✔|😐|
+|1|요구사항 확인|[🤢](https://github.com/Gongbuhajava/Engineer-Information-Processing/blob/main/Yuna/1%EC%9E%A5%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%ED%99%95%EC%9D%B8.md)||✔|😐|
 |2|화면설계|||||
 |3|데이터 입출력 구현|||||
 |4|통합 구현|||||
