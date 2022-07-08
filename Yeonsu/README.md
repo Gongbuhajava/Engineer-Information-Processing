@@ -4,7 +4,7 @@
 
 　　　　　　　https://simuing.tistory.com/category/IT%20License
 
-　　https://devmath.tistory.com/46?category=902547
+　　　　　　　https://devmath.tistory.com/46?category=902547
 
 유 튜 브 :  https://www.youtube.com/user/ydot0789
 
